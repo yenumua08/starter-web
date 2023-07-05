@@ -24,3 +24,5 @@ Git.Training
 ### Changes for Disabling Fast Forwarding
 
 Fast Forward Branch
+
+Pull the fork repo and issue PR
