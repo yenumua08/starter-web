@@ -20,3 +20,7 @@ Few more CHanges
 ### Test the Changes
 
 Git.Training
+
+### Changes for Disabling Fast Forwarding
+
+Fast Forward Branch
