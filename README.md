@@ -17,3 +17,6 @@ Few more CHanges
 
 ## How to Contribute
 
+### Test the Changes
+
+Git.Training
