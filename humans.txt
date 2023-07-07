@@ -17,4 +17,4 @@
     jQuery, Modernizr
 
 
-Edit the Information
+Edit the Information for deep diving into stashes
